@@ -65,5 +65,5 @@ Note: 这仅仅只是一些使用例子，详细可通过`--help`参数或`-h`�
 <br> 好吧，我否决了它，nmap 的二进制文件会使程序变得大的许多，这将得不偿失
 <br> 将扫描的输出方式进行改变，并增加跨平台的颜色颜色
 ## 感谢 :
-<br> <b>https://github.com/shadow1ngfscan</b>
-<br> <b>https://github.com/8kgege/LadonGo</b>
+<br> <b>https://github.com/shadow1ng/fscan</b>
+<br> <b>https://github.com/k8gege/LadonGo</b>
